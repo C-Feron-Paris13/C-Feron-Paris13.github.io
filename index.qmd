@@ -1,0 +1,27 @@
+---
+title: "A propos"
+format: html
+---
+
+---
+title: "Master d'Ethologie"
+image: Master_logo.png
+about:
+  template: jolla
+  links:
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Le master éthologie est l’un des rares masters en France et en Europe, dont les deux années sont totalement dédiées à l’étude de la biologie du comportement animal, humain compris. Le lieu de formation est le **campus de Villetaneuse** ([Université Sorbonne Paris Nord](https://www.univ-spn.fr/)).
+
+L'éthologie est l'étude scientifique du comportement animal dans le contexte de l'évolution par sélection naturelle. L'objectif principal du Master d'éthologie est de former des scientifiques de niveau ingénieur, spécialistes du comportement animal et humain, qui œuvreront dans le futur tant en recherche fondamentale qu'en recherche appliquée.
+
+La formation est aussi ouverte à des professionnels de disciplines connexes qui cherchent à obtenir une formation à l'éthologie pour compléter leur palette de compétences. Ils pourront, suivant leurs besoins et leurs compétences, soit retourner dans leur milieu professionnel d'origine à la sortie de la première année, soit poursuivre en deuxième année. Le but est de favoriser l'intérêt pour l'éthologie dans des domaines professionnels où cette discipline scientifique est méconnue et pourtant fortement utile.
