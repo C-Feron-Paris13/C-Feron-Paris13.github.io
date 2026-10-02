@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Master d&#39;Ethologie</title>
+<link>https://your-website-url.example.com/index_old.html</link>
+<atom:link href="https://your-website-url.example.com/index_old.xml" rel="self" type="application/rss+xml"/>
+<description>A blog built with Quarto</description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Sun, 27 Sep 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Compétences</title>
+  <dc:creator>Equipe pédagogique</dc:creator>
+  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><strong>Compétences visées</strong></p>
+<p>Un étudiant diplômé du master d’éthologie, quel que soit le parcours individuel suivi, est un scientifique spécialiste du comportement animal, humain compris, qui connaît les concepts et les fondements de la discipline, maitrise la mise en œuvre des procédures expérimentales (développement d’une hypothèse de travail, élaboration d’un protocole opérationnel, collecte et analyse statistique des données, rédaction d’un rapport) qui impliquent de :</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; savoir poser des questions scientifiques rigoureuses et pertinentes, appuyées par la littérature&nbsp;;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; formuler des hypothèses et élaborer un protocole expérimental&nbsp;;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; collecter des données, les analyser statistiquement, et les représenter sous forme graphique&nbsp;;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; rédiger des rapports scientifiques.</p>
+<p>L’étudiant diplômé sera également apte à diffuser l’information acquise, sous forme écrite et orale, dans différents contextes&nbsp;: communication spécialisée à destination de la communauté scientifique, rédaction de notes de synthèse et rapports à destination de non spécialistes de l’éthologie (décideurs politiques, structures d’élevage, parc zoologiques, associations…) ou communication à l’adresse du grand public (dans le domaine éducatif, la presse ou d’autres structures). Les étudiants apprennent aussi à travailler en équipe et ont une formation spécifique au monde professionnel en seconde année.</p>
+<p>L’insertion professionnelle peut être envisagée dès la sortie du master, mais l’ensemble des étudiants diplômés a acquis les bases nécessaires et suffisantes pour une poursuite de leurs études en doctorat. A ce titre, le master offre une formation appropriée pour les personnes qui souhaitent intégrer le domaine de la recherche scientifique, en France comme à l’international.</p>
+<p>La formation est organisée en deux années d’études, avec des cours traditionnels et des classes inversées, en face à face pédagogique (ou en distanciel selon le Plan de Continuation de l’Activité en cas de fermeture de l’Université, par exemple pour cause sanitaire). Elle comprend aussi des travaux dirigés en petits groupes et deux périodes dédiées aux stages (une pour chaque année). Les enseignements ont lieu 5 jours sur 7, matin (après 9h) et après-midi durant toute l’année académique (débutant généralement début septembre pour le 1<sup>er</sup> semestre et début janvier pour le 2<sup>nd</sup> semestre). Les cours sont dispensés en français et pour environ 25% d’entre eux, en anglais.</p>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
+  <pubDate>Sun, 27 Sep 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/post-with-code/Compétences.png" medium="image" type="image/png" height="106" width="144"/>
+</item>
+<item>
+  <title>Débouchés</title>
+  <dc:creator>Equipe pédagogique</dc:creator>
+  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://your-website-url.example.com/posts/welcome/Debouches.png" class="img-fluid"></p>
+<p><strong>Débouchés</strong></p>
+<p>De par leur choix des UE et des sujets de stages effectués au cours des deux années de formation, les étudiants pourront colorer leur parcours en direction de débouchés plutôt vers la recherche ou vers une insertion professionnelle dans différents domaines d’application des sciences du comportement&nbsp;:</p>
+<p>- Enseignant-chercheur, chercheur en éthologie</p>
+<p>- Ingénieur d’études ou de recherche, chargé d’études, bio-ingénieur</p>
+<p>- Assistant-ingénieur, technicien de laboratoire de recherche ou des instituts techniques publics ou privés&nbsp;</p>
+<p>- Auto-entrepreneurs en parcs nationaux ou régionaux, parcs zoologiques, réserves naturelles, structures de recherche publiques ou privées (gestion des élevages et bien-être animal, écotourisme, conception et utilisation des produits industriels, environnement et handicaps, etc.).</p>
+
+
+
+ ]]></description>
+  <category>Débouchés</category>
+  <guid>https://your-website-url.example.com/posts/welcome/</guid>
+  <pubDate>Thu, 24 Sep 2026 22:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
